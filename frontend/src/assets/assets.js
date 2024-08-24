@@ -663,7 +663,7 @@ export const products = [
     {
         _id: "aaabv",
         name: "Men Slim Fit Relaxed Denim Jacket",
-        description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+        description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garments.",
         price: 330,
         image: [p_img48],
         category: "Men",
